@@ -1,0 +1,6 @@
+[
+  {
+    "Type": "Test",
+    "Handler": "SocketLite.Server.Handlers.TestHandler,SocketLite.Server"
+  }
+]
