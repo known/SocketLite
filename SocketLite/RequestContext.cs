@@ -1,4 +1,4 @@
-﻿using SocketLite.Log;
+﻿using SocketLite.Logs;
 
 namespace SocketLite
 {

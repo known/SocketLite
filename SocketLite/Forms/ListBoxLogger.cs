@@ -1,4 +1,4 @@
-﻿using SocketLite.Log;
+﻿using SocketLite.Logs;
 using System;
 using System.Windows.Forms;
 
